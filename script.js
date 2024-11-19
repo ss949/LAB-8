@@ -56,7 +56,37 @@ let message = "Hello, " + SYlvia + " " + Nage + ", you are " + (19) + " years ol
 {console.log("Hell0, SYlvia Nage, you are 19 years old.");
 }
 
-Number = 50
-if Number>0 and Number<100:
+var isnum = 50
+if num > 0;
+and num<100:
 {print("The number is within range")
 }
+
+
+var ishasCar: Boolean 
+ishasCar = true
+console.log(ishasCar)
+var ishasLicense: Boolean
+ishasLicense = true
+var ishasInsurance 
+ishasInsurance = true
+if ishasCar and ishasLicense and hasInsurance:
+    print("You can drive legally.")
+else:
+    print("Check your driving eligibility.")
+
+
+let num=21
+if num % 3 == 0:
+    print("The number is even.")
+else:
+    print("The number is odd.")
+
+
+score=85
+if score >= 90:
+    print("Grade A.")
+else score >= 80:
+    print("Grade B.")
+else:
+    print("Grade C.")
